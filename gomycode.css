@@ -1,0 +1,35 @@
+body{
+    margin: 0 0 0 0;
+    background-color: azure;
+       }
+p{
+    display: inline;
+    color: red;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: -50px;
+    padding: 20px;
+}
+.tab1{
+    font-family: roboto;
+    font-weight: bold;
+    color: royalblue;
+}
+.tab2{
+        font: italic;
+        font-weight: bolder;
+    color: royalblue;
+}
+.tab3{
+    font: italic;
+    color: royalblue;
+}
+.tab4{
+    font: inherit;
+    color: royalblue;
+}
+.tab5{
+    font: italic;
+    color: royalblue;
+    text-align: center;
+}
